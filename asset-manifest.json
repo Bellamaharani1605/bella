@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bella/static/css/main.3cbc51fa.chunk.css",
+    "main.js": "/bella/static/js/main.ab6ae509.chunk.js",
+    "main.js.map": "/bella/static/js/main.ab6ae509.chunk.js.map",
+    "runtime-main.js": "/bella/static/js/runtime-main.df2d7ffa.js",
+    "runtime-main.js.map": "/bella/static/js/runtime-main.df2d7ffa.js.map",
+    "static/css/2.06689f82.chunk.css": "/bella/static/css/2.06689f82.chunk.css",
+    "static/js/2.b00dbe67.chunk.js": "/bella/static/js/2.b00dbe67.chunk.js",
+    "static/js/2.b00dbe67.chunk.js.map": "/bella/static/js/2.b00dbe67.chunk.js.map",
+    "index.html": "/bella/index.html",
+    "static/css/2.06689f82.chunk.css.map": "/bella/static/css/2.06689f82.chunk.css.map",
+    "static/css/main.3cbc51fa.chunk.css.map": "/bella/static/css/main.3cbc51fa.chunk.css.map",
+    "static/js/2.b00dbe67.chunk.js.LICENSE.txt": "/bella/static/js/2.b00dbe67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df2d7ffa.js",
+    "static/css/2.06689f82.chunk.css",
+    "static/js/2.b00dbe67.chunk.js",
+    "static/css/main.3cbc51fa.chunk.css",
+    "static/js/main.ab6ae509.chunk.js"
+  ]
+}
